@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pilates-biyori-deploy.pages.dev/sitemap.xml
+Sitemap: https://biyori-pilates.com/sitemap.xml
