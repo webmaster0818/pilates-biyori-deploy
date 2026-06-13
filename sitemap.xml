@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://biyori-pilates.com/</loc><lastmod>2026-06-12</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://biyori-pilates.com/area/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://biyori-pilates.com/articles/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://biyori-pilates.com/</loc><lastmod>2026-06-13</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://biyori-pilates.com/area/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://biyori-pilates.com/articles/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/studios/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/basics/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/benefits/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
@@ -23,6 +23,7 @@
   <url><loc>https://biyori-pilates.com/area/akita/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/amagasaki/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/aobadai/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/aomono-yokocho/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/aomori/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/aoyama-itchome/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/arashiyama/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -32,13 +33,14 @@
   <url><loc>https://biyori-pilates.com/area/asakusa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/asakusabashi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/ashiya/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/atami/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/awaji/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/ayase/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/azabujuban/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/beppu/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/center-kita/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/chatan/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/chiba/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/chiba/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/chigasaki/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/chikusa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/chitose-funabashi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -55,7 +57,7 @@
   <url><loc>https://biyori-pilates.com/area/fujigaoka/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/fujimino/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/fujisawa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/fukuoka/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/fukuoka/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/fukushima/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/fukuyama/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/funabashi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -71,6 +73,7 @@
   <url><loc>https://biyori-pilates.com/area/hachioji/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/hakata/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/hakodate/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/hakusan/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/hamamatsu/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/hamamatsucho/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/harajuku/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -80,6 +83,7 @@
   <url><loc>https://biyori-pilates.com/area/higashi-hiroshima/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/higashi-murayama/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/higashi-osaka/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/higashikurume/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/higashiyama/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/hikarigaoka/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/hikone/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -88,8 +92,9 @@
   <url><loc>https://biyori-pilates.com/area/hiratsuka/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/hiroo/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/hirosaki/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/hiroshima/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/hiroshima/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/hiyoshi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/hodogaya/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/honancho/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/honatsugi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/hongo-sanchome/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -117,6 +122,7 @@
   <url><loc>https://biyori-pilates.com/area/kamata/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kameido/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kamiooka/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/kamonomiya/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kanamachi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kanayama/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kanazawa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -134,16 +140,20 @@
   <url><loc>https://biyori-pilates.com/area/kawagoe/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/kawaguchi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kawanishi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/kawasaki/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/kawasaki/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/keisei-koiwa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/keisei-tateishi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kichijoji/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/kikuna/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kinshicho/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kirishima/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kita-senju/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kitahama/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/kitakyushu/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/kitakyushu/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/kitami/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kitaoji/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/kobe/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/kiyose/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/kobe/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/koenji/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kofu/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kokubunji/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -155,6 +165,7 @@
   <url><loc>https://biyori-pilates.com/area/koshigaya/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kugayama/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kumamoto/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/kumegawa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kunitachi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kuramae/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kurashiki/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -163,10 +174,12 @@
   <url><loc>https://biyori-pilates.com/area/kusatsu/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/kyobashi-osaka/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/kyodo/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/kyoto/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/kyoto/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/kyoto-shiyakusho-mae/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/kyoto-station/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://biyori-pilates.com/area/kyoto-yawata/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/machida/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/maita/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/makuharihongo/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/marunouchi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/matsudo/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -175,6 +188,7 @@
   <url><loc>https://biyori-pilates.com/area/meidaimae/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/mejiro/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/minamimorimachi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/minowa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/mishima/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/mita/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/mitaka/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -192,12 +206,13 @@
   <url><loc>https://biyori-pilates.com/area/nagareyama/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/nagasaki/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/nagatacho/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/nagoya/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/nagoya/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/nagoya-station/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/naha/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/nakameguro/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/nakano/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/nakano-sakaue/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/nakayama/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/namba/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/nara/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/narimasu/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -210,6 +225,7 @@
   <url><loc>https://biyori-pilates.com/area/nippori/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/nishi-nippori/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/nishi-ogikubo/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/nishi-ojima/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/nishijin/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/nishikasai/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/nishinomiya/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -228,10 +244,10 @@
   <url><loc>https://biyori-pilates.com/area/okazaki/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/okinawa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/omihachiman/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/omiya/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/omiya/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/omori/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/omotesando/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://biyori-pilates.com/area/osaka/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/osaka/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/oshiage/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/otemachi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/otsu/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -248,10 +264,10 @@
   <url><loc>https://biyori-pilates.com/area/sanda/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/sangenjaya/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/sannomiya/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://biyori-pilates.com/area/sapporo/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/sapporo/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/sasazuka/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/seijo-gakuenmae/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/sendai/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/sendai/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/sengawa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/senri-chuo/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/senzoku/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -262,6 +278,7 @@
   <url><loc>https://biyori-pilates.com/area/shimbashi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/shimokitazawa/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/shimonoseki/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biyori-pilates.com/area/shin-kemigawa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/shin-koiwa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/shin-okubo/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/shin-osaka/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -270,6 +287,7 @@
   <url><loc>https://biyori-pilates.com/area/shinagawa/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/shinjuku/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/shinsaibashi/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://biyori-pilates.com/area/shintomicho/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/shirokanatakanawa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/shirokanedai/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/shizuoka/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -295,7 +313,7 @@
   <url><loc>https://biyori-pilates.com/area/tenjin/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/tennoji/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/tokorozawa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/tokyo/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/tokyo/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/tokyo-station/</loc><lastmod>2026-06-07</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://biyori-pilates.com/area/tomakomai/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/toranomon/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
@@ -330,7 +348,7 @@
   <url><loc>https://biyori-pilates.com/area/yatsushiro/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/yoga-komazawa/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/yokkaichi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://biyori-pilates.com/area/yokohama/</loc><lastmod>2026-06-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biyori-pilates.com/area/yokohama/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://biyori-pilates.com/area/yokosuka/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/yotsuya/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://biyori-pilates.com/area/yoyogi/</loc><lastmod>2026-06-07</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
